@@ -48,3 +48,13 @@
     transform: rotate(360deg);
   }
 }
+
+h2 {
+  color: white;
+}
+
+.assignment-1 {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+}
